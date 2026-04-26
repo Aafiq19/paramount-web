@@ -38,4 +38,4 @@ The system consists of two separate applications:
 
 ## 👨‍💻 Developed By
 **Code Brew** — Group WD_2024Jun_33  
-SLIIT City University — Higher Diploma in IT
+SCU — Higher Diploma in IT
